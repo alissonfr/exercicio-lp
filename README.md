@@ -1,5 +1,7 @@
-# atividade1_LP1
+# ATIVIDADE LP1
 ## Exercício Linguagens de Programação I - Java
+
+Atividade em Java desenvolvida na matéria Linguagens de Programação I:
 
 Uma empresa necessita implementar um sistema para controlar o registro dos seus Produtos. O projeto deverá ser implementado de acordo com o seguinte diagrama de classe: <br/><br/>
 ![exercicio img](https://lh4.googleusercontent.com/3WFvKQmcb3JQFo0TQ0H515c4qzRccDw002mMVSGI5k_62MPtu9kE0KFG8KjaIt1FYWSF8B8XzTNiNHAbu8yzPEN44ytt2pCXio8u-tXqE5ge_hkiIJfjfteTy1b9ZIqahQ=w368)
